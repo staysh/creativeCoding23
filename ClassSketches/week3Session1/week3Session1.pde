@@ -4,6 +4,7 @@ PImage myImage;
 int[] myIntArray = new int[10];
 int[] cols = new int[10];
 
+int myArr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
 void setup () {
   myImage = loadImage("image.bmp");
