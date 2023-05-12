@@ -40,9 +40,7 @@ void draw(){
     SUBTRACT);
   
   p[1] = p[0].get();
-  
-  p[1].resize(10,10);
-  
+    
   image(p[0], 0, 0);
   
   image(p[1], 400, 100, 50, 50);
